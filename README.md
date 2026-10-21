@@ -712,12 +712,12 @@ Creo en aprender haciendo, compartir lo aprendido y hacer preguntas incómodas c
 
 Este proyecto está publicado bajo la **MIT License**. Eso significa que puedes:
 
-✅ usarlo
-✅ copiarlo
-✅ modificarlo
-✅ distribuirlo
-✅ utilizarlo con fines educativos
-✅ utilizarlo incluso en proyectos comerciales
+- ✅ usarlo
+- ✅ copiarlo
+- ✅ modificarlo
+- ✅ distribuirlo
+- ✅ utilizarlo con fines educativos
+- ✅ utilizarlo incluso en proyectos comerciales
 
 siempre manteniendo el aviso de copyright y la licencia correspondiente.
 
